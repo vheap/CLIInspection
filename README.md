@@ -1,0 +1,2 @@
+# CLIInspection
+Lightweight PE parser 
