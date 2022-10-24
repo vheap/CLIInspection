@@ -13,3 +13,8 @@ Lightweight PE parser
 
 
 ![Preview](https://i.imgur.com/Z0psGhC.jpeg)
+
+
+• Entropy calculation is based on each individual section header. 
+
+![Preview](https://i.imgur.com/gLN9YQX.jpeg)
